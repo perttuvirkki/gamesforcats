@@ -1,0 +1,9 @@
+app_identifier("com.ludussuper.gamesforcats")
+
+# If you prefer Apple ID auth (not recommended), you can set this:
+# apple_id("you@example.com")
+
+# If you have multiple teams, you can set one (optional):
+# itc_team_id("123456789")
+# team_id("ABCDE12345")
+

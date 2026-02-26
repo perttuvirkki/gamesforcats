@@ -1,0 +1,85 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.94664,1.00000,0.78801,1.00000",
+      "display-p3:0.43551,1.00000,0.36343,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 1
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.3
+      }
+    }
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "glass" : false,
+          "image-name" : "Twemoji12_1f41e.svg 2.png",
+          "name" : "Twemoji12_1f41e.svg 2",
+          "position" : {
+            "scale" : 0.32,
+            "translation-in-points" : [
+              87.08203125,
+              -294.96875
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "glass" : false,
+          "image-name" : "welcome 2.png",
+          "name" : "welcome 2",
+          "position" : {
+            "scale" : 0.55,
+            "translation-in-points" : [
+              -7.7000000000000455,
+              -33.59999999999991
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : "none",
+          "glass" : false,
+          "hidden" : false,
+          "image-name" : "Moss002_1K-JPG_Color.jpg",
+          "name" : "Moss002_1K-JPG_Color",
+          "opacity" : 0.48
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
