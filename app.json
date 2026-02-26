@@ -25,7 +25,7 @@
       }
     },
     "android": {
-      "versionCode": 8,
+      "versionCode": 9,
       "icon": "./assets/appicon-iOS-Default-1024x1024@1x.png",
       "adaptiveIcon": {
         "backgroundColor": "#FF8A00",

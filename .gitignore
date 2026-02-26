@@ -41,6 +41,7 @@ yarn-error.*
 .env*.local
 
 # fastlane temp
+fastlane/
 fastlane/.deliver_screenshots/
 fastlane/report.xml
 fastlane/Preview.html
