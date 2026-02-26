@@ -14,16 +14,6 @@ The app supports iOS and Android, uses file-based routing with Expo Router, and 
 - **Monetization & Analytics:** RevenueCat (`react-native-purchases`) + PostHog
 - **Platforms:** iOS and Android (with web support via Expo)
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
